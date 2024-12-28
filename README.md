@@ -8,6 +8,14 @@
 - Maven
 - PostgreSQL or any other preferred SQL database (i.ve used H2 db)
 
+### Technologies Used
+
+-Java
+-Spring Boot
+-Spring Data JPA (Hibernate)
+-Maven
+-H2 database
+
 ### Setup
 
 1. Clone the repository:
