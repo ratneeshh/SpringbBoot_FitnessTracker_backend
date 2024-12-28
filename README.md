@@ -10,11 +10,11 @@
 
 ### Technologies Used
 
--Java
--Spring Boot
--Spring Data JPA (Hibernate)
--Maven
--H2 database
+- Java
+- Spring Boot
+- Spring Data JPA (Hibernate)
+- Maven
+- H2 database
 
 ### Setup
 
